@@ -1,0 +1,5 @@
+ access_key = "AKIAR66BGEJ6SJ7CSZNQ"
+ secret_key =  "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"
+ region     = "us-east-2"
+ aws_region = "us-east-2"
+ name = "test-ecs-cluster"
